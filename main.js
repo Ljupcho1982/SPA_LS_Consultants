@@ -39,19 +39,7 @@ function homePage() {
   <img src="./images/hero.jpg" alt="" style="height: 100%; width: 100%" />
 </div>
   
-  <footer>
-  <div class="footer-content">
-      <h3>LS Consultants</h3>
-      <p>We develope the future</p>
-      <ul class="socials">
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-          <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-          <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-      </ul>
-  </div>
- </footer>
+ 
     `;
 }
 
@@ -75,19 +63,7 @@ function AboutUs() {
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum aspernatur laudantium autem voluptatum nisi magni nobis voluptatem similique illo dolore dignissimos ullam corrupti animi, labore consectetur explicabo qui id porro..
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum aspernatur laudantium autem voluptatum nisi magni nobis voluptatem similique illo dolore dignissimos ullam corrupti animi, labore consectetur explicabo qui id porro..
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum aspernatur laudantium autem voluptatum nisi magni nobis voluptatem similique illo dolore dignissimos ullam corrupti animi, labore consectetur explicabo qui id porro..
-    </marquee> <footer>
-<div class="footer-content">
-    <h3>LS Consultants</h3>
-    <p>We develope the future</p>
-    <ul class="socials">
-        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-        <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-    </ul>
-</div>
-</footer>`;
+    </marquee> `;
 }
 
 function services() {
@@ -132,19 +108,7 @@ function services() {
   </button>
 </div>
 
-<footer>
-<div class="footer-content">
-    <h3>LS Consultants</h3>
-    <p>We develope the future</p>
-    <ul class="socials">
-        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-        <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-    </ul>
-</div>
-</footer>
+
     
     `;
 }
@@ -180,19 +144,6 @@ function ourTeam() {
   </div>
  
     `;
-
-    document.getElementById("container1").innerHTML = `<footer>
-    <div class="footer-content">
-        <h3>LS Consultants</h3>
-        <p>We develope the future</p>
-        <ul class="socials">
-            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-            <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-        </ul>
-    </div>`;
   });
 }
 
@@ -294,19 +245,7 @@ function ContactUS() {
     </div>
 
 </section>
-<!--Section: Contact v.2-->  <footer>
-<div class="footer-content">
-    <h3>LS Consultants</h3>
-    <p>We develope the future</p>
-    <ul class="socials">
-        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-        <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-    </ul>
-</div>
-</footer>`;
+<!--Section: Contact v.2-->  `;
 }
 
 document
